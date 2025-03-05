@@ -26,9 +26,9 @@ https://drive.google.com/file/d/1jUTa6_FWK9iBYHtbTOjVjkcL6aBXIasm/view?usp=shari
 
 ## Langages de programmation
 
-Langage : R
+**Langage :** R
 
-Packages : tidyverse, ggplot2, FactoMineR, factoextra, MASS, car, AER, PerformanceAnalytics, corrplot, lmtest, EnvStats
+**Packages :** tidyverse, ggplot2, FactoMineR, factoextra, MASS, car, AER, PerformanceAnalytics, corrplot, lmtest, EnvStats
 
 ## Auteurs
 
